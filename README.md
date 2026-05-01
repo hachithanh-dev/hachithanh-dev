@@ -1,6 +1,4 @@
-Source: https://raw.githubusercontent.com/hachithanh-dev/hachithanh-dev/main/README.md
 
----
 
 <div align="center">
 
