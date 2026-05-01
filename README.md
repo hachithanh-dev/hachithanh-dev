@@ -1,3 +1,7 @@
+Source: https://raw.githubusercontent.com/hachithanh-dev/hachithanh-dev/main/README.md
+
+---
+
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -79,16 +83,15 @@ motto: "Architecture first, code second."
 <div align="center">
 
 <a href="https://github.com/hachithanh-dev/chatbot-ai-backend">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=hachithanh-dev&repo=chatbot-ai-backend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hachithanh-dev&repo=chatbot-ai-backend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/hachithanh-dev/chatbot-ai-frontend">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=hachithanh-dev&repo=chatbot-ai-frontend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
+<a href="https://github.com/hachithanh-dev/chatbot-ai-frontend">`n  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hachithanh-dev&repo=chatbot-ai-frontend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/hachithanh-dev/blog">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=hachithanh-dev&repo=blog&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hachithanh-dev&repo=blog&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
 </a>
 
 </div>
@@ -205,12 +208,12 @@ motto: "Architecture first, code second."
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hachithanh-dev&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hachithanh-dev&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hachithanh-dev&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachithanh-dev&layout=donut-vertical&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hachithanh-dev&layout=donut-vertical&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" />
 
 </div>
 
@@ -288,3 +291,5 @@ motto: "Architecture first, code second."
 <img src="https://img.shields.io/badge/Pipeline-6_Stage_CI%2FCD-58a6ff?style=flat-square" />
 
 </div>
+
+
