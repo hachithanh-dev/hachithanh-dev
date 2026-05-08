@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -83,7 +81,8 @@ motto: "Architecture first, code second."
 <a href="https://github.com/hachithanh-dev/chatbot-ai-backend">
   <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hachithanh-dev&repo=chatbot-ai-backend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/hachithanh-dev/chatbot-ai-frontend">`n  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hachithanh-dev&repo=chatbot-ai-frontend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
+<a href="https://github.com/hachithanh-dev/chatbot-ai-frontend">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hachithanh-dev&repo=chatbot-ai-frontend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
 </a>
 
 <br/><br/>
@@ -149,6 +148,8 @@ motto: "Architecture first, code second."
 
 ### 💻 Core Languages
 ![Java](https://img.shields.io/badge/Java_24-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -156,6 +157,7 @@ motto: "Architecture first, code second."
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI_1.1-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### 🧠 AI & Machine Learning
@@ -163,11 +165,14 @@ motto: "Architecture first, code second."
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere_Rerank-39594D?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/Agentic_RAG-FF6F00?style=for-the-badge&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-8B5CF6?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Databases & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔐 Security & Auth
 ![JWT](https://img.shields.io/badge/JWT_RS256-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -176,11 +181,13 @@ motto: "Architecture first, code second."
 
 ### 🚀 DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 📡 Event-Driven & Messaging
 ![Redis Streams](https://img.shields.io/badge/Redis_Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -192,6 +199,7 @@ motto: "Architecture first, code second."
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apidog](https://img.shields.io/badge/Apidog-F44B21?style=for-the-badge&logo=apidog&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -289,5 +297,3 @@ motto: "Architecture first, code second."
 <img src="https://img.shields.io/badge/Pipeline-6_Stage_CI%2FCD-58a6ff?style=flat-square" />
 
 </div>
-
-
